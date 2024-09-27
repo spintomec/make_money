@@ -1,0 +1,1350 @@
+Avril 2025:
+  - Crédit n°1:
+  - Revenu mensuel : 3250 €
+  - Patrimoine : 124017 €
+  - Epargne : 6627 €
+  - Capacité d'emprunt : 227217 €
+  - Montant des crédits : 120000 €
+  - Montant à rembourser (annuel) : 7209 €
+  - Dépense imprévue : 0 €
+
+Mai 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 3879 €
+  - Patrimoine : 248544 €
+  - Epargne : 3255 €
+  - Capacité d'emprunt : 151201 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Juin 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4511 €
+  - Patrimoine : 249056 €
+  - Epargne : 4915 €
+  - Capacité d'emprunt : 75366 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Juillet 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4513 €
+  - Patrimoine : 249569 €
+  - Epargne : 6577 €
+  - Capacité d'emprunt : 75547 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Août 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4516 €
+  - Patrimoine : 250083 €
+  - Epargne : 8241 €
+  - Capacité d'emprunt : 75729 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Septembre 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4519 €
+  - Patrimoine : 250598 €
+  - Epargne : 9908 €
+  - Capacité d'emprunt : 75912 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Octobre 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4521 €
+  - Patrimoine : 251114 €
+  - Epargne : 11578 €
+  - Capacité d'emprunt : 76094 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Novembre 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4524 €
+  - Patrimoine : 251632 €
+  - Epargne : 13250 €
+  - Capacité d'emprunt : 76278 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Décembre 2025:
+  - Crédit n°2:
+  - Revenu mensuel : 4527 €
+  - Patrimoine : 252150 €
+  - Epargne : 14925 €
+  - Capacité d'emprunt : 76461 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Janvier 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4594 €
+  - Patrimoine : 252669 €
+  - Epargne : 16603 €
+  - Capacité d'emprunt : 81189 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Février 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4597 €
+  - Patrimoine : 253190 €
+  - Epargne : 18283 €
+  - Capacité d'emprunt : 81373 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Mars 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4599 €
+  - Patrimoine : 253711 €
+  - Epargne : 19966 €
+  - Capacité d'emprunt : 81558 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Avril 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4602 €
+  - Patrimoine : 254234 €
+  - Epargne : 21652 €
+  - Capacité d'emprunt : 81743 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Mai 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4605 €
+  - Patrimoine : 254758 €
+  - Epargne : 23340 €
+  - Capacité d'emprunt : 81928 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Juin 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4607 €
+  - Patrimoine : 255282 €
+  - Epargne : 25031 €
+  - Capacité d'emprunt : 82114 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Juillet 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4610 €
+  - Patrimoine : 255808 €
+  - Epargne : 26724 €
+  - Capacité d'emprunt : 82300 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Août 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4613 €
+  - Patrimoine : 256335 €
+  - Epargne : 28420 €
+  - Capacité d'emprunt : 82487 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Septembre 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4615 €
+  - Patrimoine : 256863 €
+  - Epargne : 30119 €
+  - Capacité d'emprunt : 82673 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Octobre 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4618 €
+  - Patrimoine : 257392 €
+  - Epargne : 31821 €
+  - Capacité d'emprunt : 82861 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Novembre 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4621 €
+  - Patrimoine : 257922 €
+  - Epargne : 33525 €
+  - Capacité d'emprunt : 83048 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Décembre 2026:
+  - Crédit n°2:
+  - Revenu mensuel : 4623 €
+  - Patrimoine : 258454 €
+  - Epargne : 35232 €
+  - Capacité d'emprunt : 83236 €
+  - Montant des crédits : 240000 €
+  - Montant à rembourser (annuel) : 14418 €
+  - Dépense imprévue : 0 €
+
+Janvier 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 4692 €
+  - Patrimoine : 354013 €
+  - Epargne : 2 €
+  - Capacité d'emprunt : 0 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Février 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5352 €
+  - Patrimoine : 354742 €
+  - Epargne : 1770 €
+  - Capacité d'emprunt : 46115 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mars 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5356 €
+  - Patrimoine : 355472 €
+  - Epargne : 3543 €
+  - Capacité d'emprunt : 46399 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Avril 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5360 €
+  - Patrimoine : 356205 €
+  - Epargne : 5319 €
+  - Capacité d'emprunt : 46683 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mai 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5364 €
+  - Patrimoine : 356938 €
+  - Epargne : 7100 €
+  - Capacité d'emprunt : 46968 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juin 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5368 €
+  - Patrimoine : 357674 €
+  - Epargne : 8885 €
+  - Capacité d'emprunt : 47254 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juillet 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5372 €
+  - Patrimoine : 358410 €
+  - Epargne : 10673 €
+  - Capacité d'emprunt : 47540 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Août 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5377 €
+  - Patrimoine : 359149 €
+  - Epargne : 12466 €
+  - Capacité d'emprunt : 47827 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Septembre 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5381 €
+  - Patrimoine : 359888 €
+  - Epargne : 14263 €
+  - Capacité d'emprunt : 48114 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Octobre 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5385 €
+  - Patrimoine : 360630 €
+  - Epargne : 16065 €
+  - Capacité d'emprunt : 48402 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Novembre 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5389 €
+  - Patrimoine : 361373 €
+  - Epargne : 17870 €
+  - Capacité d'emprunt : 48691 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Décembre 2027:
+  - Crédit n°3:
+  - Revenu mensuel : 5393 €
+  - Patrimoine : 362117 €
+  - Epargne : 19679 €
+  - Capacité d'emprunt : 48980 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Janvier 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5465 €
+  - Patrimoine : 362863 €
+  - Epargne : 21493 €
+  - Capacité d'emprunt : 53997 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Février 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5469 €
+  - Patrimoine : 363610 €
+  - Epargne : 23310 €
+  - Capacité d'emprunt : 54288 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mars 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5473 €
+  - Patrimoine : 364359 €
+  - Epargne : 25132 €
+  - Capacité d'emprunt : 54578 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Avril 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5477 €
+  - Patrimoine : 365110 €
+  - Epargne : 26958 €
+  - Capacité d'emprunt : 54870 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mai 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5481 €
+  - Patrimoine : 365862 €
+  - Epargne : 28789 €
+  - Capacité d'emprunt : 55162 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juin 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5486 €
+  - Patrimoine : 366615 €
+  - Epargne : 30623 €
+  - Capacité d'emprunt : 55455 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juillet 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5490 €
+  - Patrimoine : 367371 €
+  - Epargne : 32462 €
+  - Capacité d'emprunt : 55748 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Août 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5494 €
+  - Patrimoine : 368127 €
+  - Epargne : 34305 €
+  - Capacité d'emprunt : 56042 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Septembre 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5498 €
+  - Patrimoine : 368886 €
+  - Epargne : 36152 €
+  - Capacité d'emprunt : 56336 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Octobre 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5502 €
+  - Patrimoine : 369645 €
+  - Epargne : 38003 €
+  - Capacité d'emprunt : 56632 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Novembre 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5507 €
+  - Patrimoine : 370407 €
+  - Epargne : 39858 €
+  - Capacité d'emprunt : 56927 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Décembre 2028:
+  - Crédit n°3:
+  - Revenu mensuel : 5511 €
+  - Patrimoine : 371170 €
+  - Epargne : 41718 €
+  - Capacité d'emprunt : 57224 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Janvier 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5584 €
+  - Patrimoine : 371934 €
+  - Epargne : 43582 €
+  - Capacité d'emprunt : 62343 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Février 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5588 €
+  - Patrimoine : 372701 €
+  - Epargne : 45450 €
+  - Capacité d'emprunt : 62641 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mars 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5593 €
+  - Patrimoine : 373468 €
+  - Epargne : 47323 €
+  - Capacité d'emprunt : 62939 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Avril 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5597 €
+  - Patrimoine : 374238 €
+  - Epargne : 49200 €
+  - Capacité d'emprunt : 63238 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Mai 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5601 €
+  - Patrimoine : 375008 €
+  - Epargne : 51081 €
+  - Capacité d'emprunt : 63537 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juin 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5606 €
+  - Patrimoine : 375781 €
+  - Epargne : 52966 €
+  - Capacité d'emprunt : 63837 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Juillet 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5610 €
+  - Patrimoine : 376555 €
+  - Epargne : 54856 €
+  - Capacité d'emprunt : 64138 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Août 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5614 €
+  - Patrimoine : 377331 €
+  - Epargne : 56750 €
+  - Capacité d'emprunt : 64439 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Septembre 2029:
+  - Crédit n°3:
+  - Revenu mensuel : 5618 €
+  - Patrimoine : 378108 €
+  - Epargne : 58648 €
+  - Capacité d'emprunt : 64741 €
+  - Montant des crédits : 328060 €
+  - Montant à rembourser (annuel) : 19708 €
+  - Dépense imprévue : 0 €
+
+Octobre 2029:
+  - Crédit n°4:
+  - Revenu mensuel : 5623 €
+  - Patrimoine : 454007 €
+  - Epargne : 594 €
+  - Capacité d'emprunt : 0 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Novembre 2029:
+  - Crédit n°4:
+  - Revenu mensuel : 6330 €
+  - Patrimoine : 454942 €
+  - Epargne : 2603 €
+  - Capacité d'emprunt : 49456 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Décembre 2029:
+  - Crédit n°4:
+  - Revenu mensuel : 6336 €
+  - Patrimoine : 455879 €
+  - Epargne : 4618 €
+  - Capacité d'emprunt : 49861 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Janvier 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6412 €
+  - Patrimoine : 456818 €
+  - Epargne : 6639 €
+  - Capacité d'emprunt : 55186 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Février 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6418 €
+  - Patrimoine : 457759 €
+  - Epargne : 8665 €
+  - Capacité d'emprunt : 55593 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Mars 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6424 €
+  - Patrimoine : 458702 €
+  - Epargne : 10698 €
+  - Capacité d'emprunt : 56000 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Avril 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6430 €
+  - Patrimoine : 459647 €
+  - Epargne : 12736 €
+  - Capacité d'emprunt : 56409 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Mai 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6435 €
+  - Patrimoine : 460594 €
+  - Epargne : 14781 €
+  - Capacité d'emprunt : 56818 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Juin 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6441 €
+  - Patrimoine : 461543 €
+  - Epargne : 16831 €
+  - Capacité d'emprunt : 57228 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Juillet 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6447 €
+  - Patrimoine : 462493 €
+  - Epargne : 18886 €
+  - Capacité d'emprunt : 57639 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Août 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6453 €
+  - Patrimoine : 463446 €
+  - Epargne : 20948 €
+  - Capacité d'emprunt : 58050 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Septembre 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6459 €
+  - Patrimoine : 464401 €
+  - Epargne : 23016 €
+  - Capacité d'emprunt : 58463 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Octobre 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6465 €
+  - Patrimoine : 465357 €
+  - Epargne : 25090 €
+  - Capacité d'emprunt : 58876 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Novembre 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6471 €
+  - Patrimoine : 466316 €
+  - Epargne : 27169 €
+  - Capacité d'emprunt : 59291 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Décembre 2030:
+  - Crédit n°4:
+  - Revenu mensuel : 6477 €
+  - Patrimoine : 467276 €
+  - Epargne : 29255 €
+  - Capacité d'emprunt : 59706 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Janvier 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6554 €
+  - Patrimoine : 468239 €
+  - Epargne : 31346 €
+  - Capacité d'emprunt : 65139 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Février 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6560 €
+  - Patrimoine : 469203 €
+  - Epargne : 33444 €
+  - Capacité d'emprunt : 65556 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Mars 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6566 €
+  - Patrimoine : 470170 €
+  - Epargne : 35547 €
+  - Capacité d'emprunt : 65974 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Avril 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6572 €
+  - Patrimoine : 471138 €
+  - Epargne : 37656 €
+  - Capacité d'emprunt : 66392 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Mai 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6578 €
+  - Patrimoine : 472109 €
+  - Epargne : 39772 €
+  - Capacité d'emprunt : 66812 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Juin 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6584 €
+  - Patrimoine : 473081 €
+  - Epargne : 41893 €
+  - Capacité d'emprunt : 67232 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Juillet 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6590 €
+  - Patrimoine : 474056 €
+  - Epargne : 44020 €
+  - Capacité d'emprunt : 67653 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Août 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6596 €
+  - Patrimoine : 475032 €
+  - Epargne : 46154 €
+  - Capacité d'emprunt : 68075 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Septembre 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6603 €
+  - Patrimoine : 476011 €
+  - Epargne : 48293 €
+  - Capacité d'emprunt : 68498 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Octobre 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6609 €
+  - Patrimoine : 476991 €
+  - Epargne : 50439 €
+  - Capacité d'emprunt : 68922 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Novembre 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6615 €
+  - Patrimoine : 477974 €
+  - Epargne : 52591 €
+  - Capacité d'emprunt : 69346 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Décembre 2031:
+  - Crédit n°4:
+  - Revenu mensuel : 6621 €
+  - Patrimoine : 478958 €
+  - Epargne : 54748 €
+  - Capacité d'emprunt : 69772 €
+  - Montant des crédits : 393103 €
+  - Montant à rembourser (annuel) : 23616 €
+  - Dépense imprévue : 0 €
+
+Janvier 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 6700 €
+  - Patrimoine : 571899 €
+  - Epargne : 7228 €
+  - Capacité d'emprunt : 0 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Février 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7449 €
+  - Patrimoine : 573077 €
+  - Epargne : 9540 €
+  - Capacité d'emprunt : 52389 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Mars 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7457 €
+  - Patrimoine : 574257 €
+  - Epargne : 11860 €
+  - Capacité d'emprunt : 52924 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Avril 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7465 €
+  - Patrimoine : 575440 €
+  - Epargne : 14188 €
+  - Capacité d'emprunt : 53460 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Mai 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7472 €
+  - Patrimoine : 576625 €
+  - Epargne : 16523 €
+  - Capacité d'emprunt : 53997 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Juin 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7480 €
+  - Patrimoine : 577813 €
+  - Epargne : 18866 €
+  - Capacité d'emprunt : 54536 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Juillet 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7488 €
+  - Patrimoine : 579003 €
+  - Epargne : 21217 €
+  - Capacité d'emprunt : 55076 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Août 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7496 €
+  - Patrimoine : 580196 €
+  - Epargne : 23576 €
+  - Capacité d'emprunt : 55616 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Septembre 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7503 €
+  - Patrimoine : 581391 €
+  - Epargne : 25942 €
+  - Capacité d'emprunt : 56158 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Octobre 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7511 €
+  - Patrimoine : 582589 €
+  - Epargne : 28316 €
+  - Capacité d'emprunt : 56701 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Novembre 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7519 €
+  - Patrimoine : 583789 €
+  - Epargne : 30698 €
+  - Capacité d'emprunt : 57245 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Décembre 2032:
+  - Crédit n°5:
+  - Revenu mensuel : 7527 €
+  - Patrimoine : 584991 €
+  - Epargne : 33088 €
+  - Capacité d'emprunt : 57790 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Janvier 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7609 €
+  - Patrimoine : 586196 €
+  - Epargne : 35485 €
+  - Capacité d'emprunt : 63556 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Février 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7617 €
+  - Patrimoine : 587404 €
+  - Epargne : 37890 €
+  - Capacité d'emprunt : 64104 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Mars 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7625 €
+  - Patrimoine : 588614 €
+  - Epargne : 40304 €
+  - Capacité d'emprunt : 64652 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Avril 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7633 €
+  - Patrimoine : 589826 €
+  - Epargne : 42725 €
+  - Capacité d'emprunt : 65202 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Mai 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7641 €
+  - Patrimoine : 591041 €
+  - Epargne : 45153 €
+  - Capacité d'emprunt : 65753 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Juin 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7648 €
+  - Patrimoine : 592258 €
+  - Epargne : 47590 €
+  - Capacité d'emprunt : 66305 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Juillet 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7656 €
+  - Patrimoine : 593478 €
+  - Epargne : 50035 €
+  - Capacité d'emprunt : 66858 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Août 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7664 €
+  - Patrimoine : 594701 €
+  - Epargne : 52488 €
+  - Capacité d'emprunt : 67412 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Septembre 2033:
+  - Crédit n°5:
+  - Revenu mensuel : 7672 €
+  - Patrimoine : 595926 €
+  - Epargne : 54948 €
+  - Capacité d'emprunt : 67967 €
+  - Montant des crédits : 468419 €
+  - Montant à rembourser (annuel) : 28140 €
+  - Dépense imprévue : 0 €
+
+Octobre 2033:
+  - Crédit n°6:
+  - Revenu mensuel : 7680 €
+  - Patrimoine : 684510 €
+  - Epargne : 941 €
+  - Capacité d'emprunt : 0 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Novembre 2033:
+  - Crédit n°6:
+  - Revenu mensuel : 8464 €
+  - Patrimoine : 685920 €
+  - Epargne : 3592 €
+  - Capacité d'emprunt : 54814 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Décembre 2033:
+  - Crédit n°6:
+  - Revenu mensuel : 8474 €
+  - Patrimoine : 687332 €
+  - Epargne : 6254 €
+  - Capacité d'emprunt : 55484 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Janvier 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8560 €
+  - Patrimoine : 688748 €
+  - Epargne : 8925 €
+  - Capacité d'emprunt : 61481 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Février 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8569 €
+  - Patrimoine : 690167 €
+  - Epargne : 11605 €
+  - Capacité d'emprunt : 62154 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Mars 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8579 €
+  - Patrimoine : 691589 €
+  - Epargne : 14296 €
+  - Capacité d'emprunt : 62829 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Avril 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8589 €
+  - Patrimoine : 693013 €
+  - Epargne : 16996 €
+  - Capacité d'emprunt : 63505 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Mai 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8598 €
+  - Patrimoine : 694441 €
+  - Epargne : 19705 €
+  - Capacité d'emprunt : 64182 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Juin 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8608 €
+  - Patrimoine : 695871 €
+  - Epargne : 22425 €
+  - Capacité d'emprunt : 64861 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Juillet 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8618 €
+  - Patrimoine : 697304 €
+  - Epargne : 25154 €
+  - Capacité d'emprunt : 65541 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Août 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8627 €
+  - Patrimoine : 698741 €
+  - Epargne : 27893 €
+  - Capacité d'emprunt : 66223 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Septembre 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8637 €
+  - Patrimoine : 700180 €
+  - Epargne : 30641 €
+  - Capacité d'emprunt : 66906 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Octobre 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8647 €
+  - Patrimoine : 701622 €
+  - Epargne : 33400 €
+  - Capacité d'emprunt : 67591 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Novembre 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8657 €
+  - Patrimoine : 703068 €
+  - Epargne : 36168 €
+  - Capacité d'emprunt : 68276 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Décembre 2034:
+  - Crédit n°6:
+  - Revenu mensuel : 8667 €
+  - Patrimoine : 704516 €
+  - Epargne : 38946 €
+  - Capacité d'emprunt : 68964 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Janvier 2035:
+  - Crédit n°6:
+  - Revenu mensuel : 8754 €
+  - Patrimoine : 705967 €
+  - Epargne : 41734 €
+  - Capacité d'emprunt : 75083 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Février 2035:
+  - Crédit n°6:
+  - Revenu mensuel : 8764 €
+  - Patrimoine : 707421 €
+  - Epargne : 44532 €
+  - Capacité d'emprunt : 75774 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Mars 2035:
+  - Crédit n°6:
+  - Revenu mensuel : 8774 €
+  - Patrimoine : 708878 €
+  - Epargne : 47339 €
+  - Capacité d'emprunt : 76465 €
+  - Montant des crédits : 536943 €
+  - Montant à rembourser (annuel) : 32257 €
+  - Dépense imprévue : 0 €
+
+Avril 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 8784 €
+  - Patrimoine : 812413 €
+  - Epargne : 2315 €
+  - Capacité d'emprunt : 0 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Mai 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9599 €
+  - Patrimoine : 814087 €
+  - Epargne : 5347 €
+  - Capacité d'emprunt : 56998 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Juin 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9611 €
+  - Patrimoine : 815764 €
+  - Epargne : 8391 €
+  - Capacité d'emprunt : 57810 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Juillet 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9622 €
+  - Patrimoine : 817444 €
+  - Epargne : 11446 €
+  - Capacité d'emprunt : 58623 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Août 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9634 €
+  - Patrimoine : 819128 €
+  - Epargne : 14513 €
+  - Capacité d'emprunt : 59438 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Septembre 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9646 €
+  - Patrimoine : 820815 €
+  - Epargne : 17592 €
+  - Capacité d'emprunt : 60255 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Octobre 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9657 €
+  - Patrimoine : 822506 €
+  - Epargne : 20682 €
+  - Capacité d'emprunt : 61074 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Novembre 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9669 €
+  - Patrimoine : 824200 €
+  - Epargne : 23784 €
+  - Capacité d'emprunt : 61894 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Décembre 2035:
+  - Crédit n°7:
+  - Revenu mensuel : 9681 €
+  - Patrimoine : 825898 €
+  - Epargne : 26898 €
+  - Capacité d'emprunt : 62716 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Janvier 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9772 €
+  - Patrimoine : 827599 €
+  - Epargne : 30024 €
+  - Capacité d'emprunt : 69079 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Février 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9784 €
+  - Patrimoine : 829304 €
+  - Epargne : 33161 €
+  - Capacité d'emprunt : 69904 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Mars 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9796 €
+  - Patrimoine : 831012 €
+  - Epargne : 36311 €
+  - Capacité d'emprunt : 70731 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Avril 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9807 €
+  - Patrimoine : 832724 €
+  - Epargne : 39472 €
+  - Capacité d'emprunt : 71560 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Mai 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9819 €
+  - Patrimoine : 834439 €
+  - Epargne : 42645 €
+  - Capacité d'emprunt : 72390 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
+Juin 2036:
+  - Crédit n°7:
+  - Revenu mensuel : 9831 €
+  - Patrimoine : 836158 €
+  - Epargne : 45830 €
+  - Capacité d'emprunt : 73222 €
+  - Montant des crédits : 614101 €
+  - Montant à rembourser (annuel) : 36892 €
+  - Dépense imprévue : 0 €
+
