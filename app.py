@@ -32,6 +32,7 @@ def index():
             rentabilite_net = float(request.form.get("rentabilite_net", 0))
             enveloppe_travaux = float(request.form.get("enveloppe_travaux", 0))
             epargne = float(request.form.get("epargne", 0))
+            epargne_mensuelle = float(request.form.get("epargne_mensuelle", 0))
             nb_credit = 0
             annee_courante = 2025
             mois_courant = 3
@@ -46,6 +47,7 @@ def index():
                 'rentabilite_net': round(rentabilite_net),
                 'enveloppe_travaux': round(enveloppe_travaux),
                 'epargne': round(epargne),
+                'epargne_mensuelle': round(epargne_mensuelle),
             }
 
             liste_mois = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
@@ -72,7 +74,7 @@ def index():
                 depense_imprevue = generer_depense_imprevue()
 
                 mensualite = calculer_mensualite(montant_credit_hypothetique, taux_mensuel, duree_emprunt)
-                epargne, credit_possible = mettre_a_jour_epargne(epargne, revenu_locatif_net, mensualite, nb_credit, montant_credit_hypothetique, enveloppe_travaux, depense_imprevue)
+                epargne, credit_possible = mettre_a_jour_epargne(epargne, epargne_mensuelle, revenu_locatif_net, mensualite, nb_credit, montant_credit_hypothetique, enveloppe_travaux, depense_imprevue)
 
                 capacite_emprunt = calculer_capacite_emprunt(revenu_total, taux_mensuel, duree_emprunt) - sum(liste_credit_montant)
                 

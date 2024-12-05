@@ -15,6 +15,8 @@ def calculer_revenu_locatif(montant, taux, annee, mois):
 def generer_depense_imprevue():
     return random.uniform(0, 500)
 
-def mettre_a_jour_epargne(epargne, revenu_net, mensualite, nb_credit, montant_credit, travaux, depense):
-    epargne += 500 + (revenu_net - mensualite) * nb_credit - depense
+def mettre_a_jour_epargne(epargne, revenu_net, mensualite, nb_credit, montant_credit, travaux, depense, epargne_mensuelle):
+    print(epargne_mensuelle)
+    epargne += epargne_mensuelle + (revenu_net - mensualite) * nb_credit - depense
     return (epargne, epargne >= montant_credit + travaux)
+

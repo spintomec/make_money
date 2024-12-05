@@ -50,6 +50,11 @@
                     <label for="epargne" class="block text-lg font-medium text-gray-700">Épargne initiale (€) :</label>
                     <input type="number" id="epargne" name="epargne" value="{{ form_data.get('epargne', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
                 </div>
+
+                <div>
+                    <label for="epargne_mensuelle" class="block text-lg font-medium text-gray-700">Epargne mensuelle (€):</label>
+                    <input type="number" name="epargne_mensuelle" id="epargne_mensuelle" value="{{ form_data.get('epargne_mensuelle', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
             </div>
 
             <button type="submit" class="w-full py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700 transition">Lancer la simulation</button>
