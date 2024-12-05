@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulation Financière</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@1.6.4/dist/flowbite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="bg-gray-100">
+    <div class="container mx-auto p-6">
+        <h1 class="text-4xl font-extrabold text-blue-600 mb-8 text-center">Simulation Financière</h1>
+
+        <!-- Formulaire de simulation -->
+        <form class="bg-white p-8 rounded-lg shadow-lg space-y-6" method="POST">
+            <div>
+                <label for="scenario" class="block text-lg font-medium text-gray-700">Choisissez un scénario :</label>
+                <select id="scenario" name="scenario" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500">
+                    <option value="optimiste" {% if form_data.get('scenario') == 'optimiste' %}selected{% endif %}>Optimiste</option>
+                    <option value="neutre" {% if form_data.get('scenario') == 'neutre' %}selected{% endif %}>Neutre</option>
+                    <option value="pessimiste" {% if form_data.get('scenario') == 'pessimiste' %}selected{% endif %}>Pessimiste</option>
+                </select>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label for="salaire_mensuel" class="block text-lg font-medium text-gray-700">Salaire mensuel (€) :</label>
+                    <input type="number" id="salaire_mensuel" name="salaire_mensuel" value="{{ form_data.get('salaire_mensuel', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
+
+                <div>
+                    <label for="duree_emprunt" class="block text-lg font-medium text-gray-700">Durée d'emprunt (en années) :</label>
+                    <input type="number" id="duree_emprunt" name="duree_emprunt" value="{{ form_data.get('duree_emprunt', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
+
+                <div>
+                    <label for="rentabilite_net" class="block text-lg font-medium text-gray-700">Rentabilité nette (%) :</label>
+                    <input type="number" id="rentabilite_net" name="rentabilite_net" value="{{ form_data.get('rentabilite_net', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
+
+                <div>
+                    <label for="enveloppe_travaux" class="block text-lg font-medium text-gray-700">Enveloppe travaux (€) :</label>
+                    <input type="number" id="enveloppe_travaux" name="enveloppe_travaux" value="{{ form_data.get('enveloppe_travaux', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
+
+                <div>
+                    <label for="epargne" class="block text-lg font-medium text-gray-700">Épargne initiale (€) :</label>
+                    <input type="number" id="epargne" name="epargne" value="{{ form_data.get('epargne', '') }}" class="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500" required>
+                </div>
+            </div>
+
+            <button type="submit" class="w-full py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700 transition">Lancer la simulation</button>
+        </form>
+
+        {% if resultats %}
+        <!-- Résultats de la simulation -->
+        <div class="mt-8 overflow-x-auto">
+            <table class="table-auto w-full bg-white shadow-lg rounded-lg overflow-hidden">
+                <thead class="bg-blue-600 text-white">
+                    <tr>
+                        <th class="p-4">Année</th>
+                        <th class="p-4">Mois</th>
+                        <th class="p-4">Nombre de crédits</th>
+                        <th class="p-4">Capacité d'emprunt (€)</th>
+                        <th class="p-4">Épargne (€)</th>
+                        <th class="p-4">Valeur totale des biens (€)</th>
+                        <th class="p-4">Dépenses imprévues (€)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for result in resultats %}
+                    <tr class="hover:bg-gray-100 transition">
+                        <td class="border p-4">{{ result.annee }}</td>
+                        <td class="border p-4">{{ result.mois }}</td>
+                        <td class="border p-4">{{ result.nombre_de_credits }}</td>
+                        <td class="border p-4">{{ result.capacite_emprunt_restante }}</td>
+                        <td class="border p-4">{{ result.epargne }}</td>
+                        <td class="border p-4">{{ result.valeur_totale_biens }}</td>
+                        <td class="border p-4">{{ result.depense_imprevue }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Graphique -->
+        <div class="mt-8">
+            <canvas id="graphiquePatrimoine"></canvas>
+        </div>
+        <div id="resultats-data" style="display: none;">{{ resultats | tojson | safe }}</div>
+
+        <script>
+            // Utilisation de Jinja pour insérer les données JSON dans la variable JavaScript
+            const simulationResultats = JSON.parse(document.getElementById('resultats-data').textContent);
+            // Extraire les années et les valeurs de l'évolution du patrimoine (valeur_totale_biens)
+            const annees = simulationResultats.map(result => result.annee);
+            const valeurTotaleBiensData = simulationResultats.map(result => result.valeur_totale_biens);
+        
+            // Créer le graphique avec Chart.js
+            const ctx = document.getElementById('graphiquePatrimoine').getContext('2d');
+            const graphiquePatrimoine = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: annees,
+                    datasets: [{
+                        label: 'Évolution du patrimoine (€)',
+                        data: valeurTotaleBiensData,
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        fill: false,
+                        tension: 0.1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        </script>
+        {% endif %}
+    </div>
+</body>
+
+</html>
