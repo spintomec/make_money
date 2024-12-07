@@ -11,6 +11,7 @@ def index():
     resultats = []
     form_data = {}
     liste_mois = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
+    patrimoine_statut = []
 
     if request.method == "POST":
         try:
@@ -40,11 +41,11 @@ def index():
             }
 
             # Appel de la simulation
-            resultats = effectuer_simulation(
+            resultats, patrimoine_statut = effectuer_simulation(
                 salaire_mensuel, taux_mensuel, duree_emprunt, rentabilite_net,
-                enveloppe_travaux, epargne, epargne_mensuelle, parametres, liste_mois
+                enveloppe_travaux, epargne, epargne_mensuelle, parametres, liste_mois,
             )
-            
+
             # Enregistrement des résultats
             # enregistrer_resultats_txt(resultats)
 
@@ -52,7 +53,7 @@ def index():
             error_message = f"Erreur : {e}"
             return render_template("index.html", error_message=error_message, form_data=form_data)
 
-    return render_template("index.html", resultats=resultats, form_data=form_data)
+    return render_template("index.html", resultats=resultats, form_data=form_data, patrimoine_statut=patrimoine_statut)
 
 if __name__ == "__main__":
     app.run(debug=True)
