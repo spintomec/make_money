@@ -78,14 +78,16 @@
 
                 <button type="submit" class="w-full py-3 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700 transition">Lancer la simulation</button>
             </form>
-            {% if patrimoine_statut[0].success %}
-                <div class="mt-6 p-4 bg-green-100 border-l-4 border-green-500 text-green-700 font-medium rounded-md">
-                    <p>{{ patrimoine_statut[0].message }}</p>
-                </div>
-            {% else %}
-                <div class="mt-6 p-4 bg-red-100 border-l-4 border-red-500 text-red-700 font-medium rounded-md">
-                    <p>{{ patrimoine_statut[0].message }}</p>
-                </div>
+            {% if patrimoine_statut %}
+                {% if patrimoine_statut[0].success %}
+                    <div class="mt-6 p-4 bg-green-100 border-l-4 border-green-500 text-green-700 font-medium rounded-md">
+                        <p>{{ patrimoine_statut[0].message }}</p>
+                    </div>
+                {% else %}
+                    <div class="mt-6 p-4 bg-red-100 border-l-4 border-red-500 text-red-700 font-medium rounded-md">
+                        <p>{{ patrimoine_statut[0].message }}</p>
+                    </div>
+                {% endif %}
             {% endif %}
 
             {% if resultats %}
