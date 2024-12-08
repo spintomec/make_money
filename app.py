@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from simulation import effectuer_simulation
 from scenarios import obtenir_scenarios
-from utils import enregistrer_resultats_txt
+# from utils import enregistrer_resultats_txt   
 
 app = Flask(__name__)
 

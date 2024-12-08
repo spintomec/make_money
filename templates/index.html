@@ -22,21 +22,6 @@
             {% include 'resultats.html' %}
         </div>
     </body>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-        // Récupérer tous les labels
-        const labels = document.querySelectorAll(".scenario-option");
 
-        labels.forEach(label => {
-            label.addEventListener("click", () => {
-                // Enlever la bordure verte de tous les labels
-                labels.forEach(l => l.classList.remove("border-green-500", "shadow-md"));
-                
-                // Ajouter la bordure verte au label sélectionné
-                label.classList.add("border-green-500", "shadow-md");
-            });
-        });
-    });
-    </script>
     
 </html>
