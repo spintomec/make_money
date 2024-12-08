@@ -53,7 +53,7 @@ def index():
             error_message = f"Erreur : {e}"
             return render_template("index.html", error_message=error_message, form_data=form_data)
 
-    return render_template("index.html", resultats=resultats, form_data=form_data, patrimoine_statut=patrimoine_statut)
+    return render_template("index.html", scenarios=scenarios, resultats=resultats, form_data=form_data, patrimoine_statut=patrimoine_statut)
 
 if __name__ == "__main__":
     app.run(debug=True)
